@@ -13,7 +13,7 @@ module.exports = {
       .setColor('#2b71ec')
       .setAuthor({
         name: 'Im here to Help!',
-        iconURL: 'https://cdn.discordapp.com/attachments/1192515892538523702/1208285886492581938/standard.gif?ex=662c8eec&is=661a19ec&hm=a0678f92f7ce2d379c3072b8ec6b16de97496ab1f7bff90bf5acc266bdbfd570&', 
+        iconURL: 'https://cdn.discordapp.com/attachments/1192515892538523702/1230625154665812069/standard.gif?ex=6622dc7c&is=66218afc&hm=92a86b85d0f6c1a71218e7b9b47ec159d667fb3e7ef183799e02f1612655e2a0&', 
         url: 'https://discord.gg/ce5tJ9kjy3'
     })
      
@@ -57,7 +57,7 @@ module.exports = {
         }
       )
       .setThumbnail(botUser.avatarURL({ dynamic: true, format: 'png', size: 1024 }))
-      .setImage(`https://cdn.discordapp.com/attachments/1170652474563117138/1224660177039396876/MULTI_MUSIC_v1.5.png?ex=661e4cab&is=660bd7ab&hm=f7a542462fabaf9c1530ece5aa72597cff3ac032876bba46df5ddba7e122ea99&`);
+      .setImage(`https://cdn.discordapp.com/attachments/1192515892538523702/1230625154665812069/standard.gif?ex=6622dc7c&is=66218afc&hm=92a86b85d0f6c1a71218e7b9b47ec159d667fb3e7ef183799e02f1612655e2a0&`);
 
     const button1 = new ButtonBuilder()
       .setLabel('YouTube')
