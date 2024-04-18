@@ -17,7 +17,7 @@ module.exports = {
         url: 'https://discord.gg/ce5tJ9kjy3'
     })
      
-      .setDescription(`__**STATS :**__\n\n> **📊 Bot in servers:** ${serverCount}\n> **🟢 Bot Ping:** ${botPing}ms\n> **👑 Made By [GlaceYT](https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A)**\n\n__**COMMANDS :**__ `)
+      .setDescription(`__**STATS :**__\n\n> **📊 Bot in servers:** ${serverCount}\n> **🟢 Bot Ping:** ${botPing}ms\n> **👑 Made By [LEGIONS](https://discord.gg/ce5tJ9kjy3)**\n\n__**COMMANDS :**__ `)
       .addFields(
         // Basic commands category
         {
